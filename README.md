@@ -5,6 +5,11 @@
 iOS Developer
 
 
+<img src="https://img.shields.io/github/followers/AlpoxDev?style=social">
+
+![https://img.shields.io/github/followers/jeehge?style=social](https://img.shields.io/github/followers/AlpoxDev?style=social)
+
+
 <br>
 
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jihye.kwon.3551)](https://www.facebook.com/jihye.kwon.3551)
