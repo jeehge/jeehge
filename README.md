@@ -5,8 +5,6 @@
 iOS Developer
 
 
-<img src="https://img.shields.io/github/followers/AlpoxDev?style=social">
-
 ![https://img.shields.io/github/followers/jeehge?style=social](https://img.shields.io/github/followers/AlpoxDev?style=social)
 
 
