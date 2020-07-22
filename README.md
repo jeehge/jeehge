@@ -1,8 +1,16 @@
 ### Hi there 👋
 
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/jeehge/github-readme-stats)
-  
+#### Kwon Ji Hye
+iOS Developer
+
+
+<br>
+
+ [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jihye.kwon.3551)](https://www.facebook.com/jihye.kwon.3551)
+	
+
+
 <!--
 **jeehge/jeehge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
