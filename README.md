@@ -4,8 +4,7 @@
 #### Kwon Ji Hye
 iOS Developer
 
-
-![[https://img.shields.io/github/followers/jeehge?style=social]([https://img.shields.io/github/followers/jeehge?style=social)
+<img src="https://img.shields.io/github/followers/jeehge?style=social">
 
 
 <br>
