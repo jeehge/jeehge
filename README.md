@@ -1,4 +1,6 @@
-# Hi 👋, Kwon Ji Hye 
+# Hi 👋
+
+## I'm Kwon Ji Hye 
 
 iOS Developer
 
