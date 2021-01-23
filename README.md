@@ -1,6 +1,6 @@
-# I'm Kwon Ji Hye 👋
+# Hi there 👋. I'm Kwon Ji Hye.
 
-iOS Developer
+iOS Developer 🤩
 
 - 🔭 I’m currently working on [wadiz](https://apps.apple.com/kr/app/%EC%99%80%EB%94%94%EC%A6%88/id1107828621)
 
