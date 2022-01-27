@@ -2,18 +2,18 @@
 
 iOS Developer 🤩
 
-- 🔭 I’m currently working on [wadiz](https://apps.apple.com/kr/app/%EC%99%80%EB%94%94%EC%A6%88/id1107828621)
+<!-- - 🔭 I’m currently working on [wadiz](https://apps.apple.com/kr/app/%EC%99%80%EB%94%94%EC%A6%88/id1107828621) -->
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
 - 📄 Know about my experiences [https://github.com/jeehge/resume](https://github.com/jeehge/resume)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jeehgea" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeehgea" height="30" width="40" /></a>
 <a href="https://fb.com/jihye.kwon.3551" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jihye.kwon.3551" height="30" width="40" /></a>
 <a href="https://instagram.com/jeehge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jeehge" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>-->
