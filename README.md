@@ -1,8 +1,8 @@
-# Hi there 👋. 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&text=Hi%20there%20👋&fontAlign=70)
 
 ### I'm Kwon Ji Hye.
 
-iOS Developer 🤩
+iOS Developer 🍎
 
 <!-- - 🔭 I’m currently working on [wadiz](https://apps.apple.com/kr/app/%EC%99%80%EB%94%94%EC%A6%88/id1107828621) -->
 
