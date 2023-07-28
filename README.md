@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&text=Hi%20there%20👋&fontAlign=70)
 
-### I'm Kwon Ji Hye.
+# I'm Kwon Ji Hye.
 
 iOS Developer 🍎
 
