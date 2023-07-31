@@ -10,6 +10,10 @@ iOS Developer 🍎
 
 - 📄 Know about [my experiences](https://github.com/jeehge/resume)
 
+- I like [overwatch2](https://overwatch.blizzard.com/ko-kr/)
+
+- I support the [Atlanta Reign](https://reign.overwatchleague.com/en-us/)
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jeehgea" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeehgea" height="30" width="40" /></a>
