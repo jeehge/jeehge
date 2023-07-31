@@ -10,9 +10,8 @@ iOS Developer 🍎
 
 - 📄 Know about [my experiences](https://github.com/jeehge/resume)
 
-- 🎮 I like [overwatch2](https://overwatch.blizzard.com/ko-kr/)
+- 🎮 like [overwatch2](https://overwatch.blizzard.com/ko-kr/) support [Atlanta Reign](https://reign.overwatchleague.com/en-us/)
 
-- 🎮 I support the [Atlanta Reign](https://reign.overwatchleague.com/en-us/)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
